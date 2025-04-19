@@ -24,15 +24,3 @@ void	ft_bzero(void *str, size_t n)
 		i++;
 	}
 }
-/*#include <stdio.h>
-
-int main()
-{
-    
-    char ptr[] = "holamundo";
-
-    ft_bzero(ptr, 5);
-
-    printf("%s", ptr);
-    return (0);
-}*/
