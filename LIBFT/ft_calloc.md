@@ -77,7 +77,7 @@ return (buffer);
 
 ---
 
-### ✅ ¿Cuándo usar `calloc`?
+### ¿Cuándo usar `calloc`?
 
 - Cuando necesitas memoria limpia (por ejemplo, arrays, estructuras, strings).
 - Es más **seguro** que `malloc` en algunos casos porque ya viene inicializada.
