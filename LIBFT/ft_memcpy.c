@@ -31,15 +31,3 @@ void	*ft_memcpy(void	*dest, const void *src, size_t n)
 	}
 	return (dst);
 }
-/*#include <stdio.h>
-
-int main()
-{
-    char    src[] = "hola";
-    char    dest[] = "buenas tardes";
-
-    ft_memcpy(dest, src, 4);
-
-    printf("%s", ft_memcpy(dest, dest, 4));
-    return (0);
-}*/
